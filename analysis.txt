@@ -1,0 +1,18 @@
+## Phân tích ✅
+
+Những thành phần thường gặp trên giao diện website:
+ 1. Header ✅
+ 2. Banner ❌
+ 3. Navigation (Điều hướng) ❌
+ 4. Breadcrumb (Tập hợp liên kết giúp user biết vị trí hiện tại) ❌
+ 5. Sidebar / sub-navigation (Menu ở 2 bên trái hoặc phải màn hình) ❌
+ 6. Slider (Dạng trượt hình ảnh) ✅
+ 7. Content (Thường chứa trong container) ✅
+    7.1. About
+    7.2. Product Information
+    7.3. Contact
+    7.4. Image
+ 8. Footer ✅
+(Trong project này là ONE PAGE)
+
+## Dựng base (xây móng)
